@@ -1,4 +1,4 @@
-# React Vite project
+# React project
 # Inital Phase: React, javascript 
 
    Build reusable components
